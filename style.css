@@ -1,0 +1,13 @@
+h1 {
+    margin: auto;
+    color: red;
+    width: max-content;
+    
+}
+
+.belajar {
+    margin-left: 50px;
+    font-size: 100px;
+    background-color: blue;
+    padding: 20px;
+}
